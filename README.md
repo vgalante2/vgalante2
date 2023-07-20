@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Vin Galante</h1>
+<h1 align="center">Hi 👋, I'm Vin Galante</h1>
 <h3 align="center">Im a Front End Dev</h3>
 
 - 📍 Im Based in **New Jersey, United States**
 
-- 🖥️ See my Portfolio at **Portfolio**
+- 🖥️ See my Portfolio at [Portfolio](www.cenzo.dev)
 
 - 💭 I’m currently learning **Next.js**
 
