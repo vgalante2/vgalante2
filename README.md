@@ -3,7 +3,7 @@
 
 - 📍 Im Based in **New Jersey, United States**
 
-- 🖥️ See my Portfolio at [Portfolio](portfolio)
+- 🖥️ See my Portfolio at [Portfolio](https://www.cenzo.dev)
 
 - 💭 I’m currently learning **Next.js**
 
