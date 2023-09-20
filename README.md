@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vin Galante</h1>
+<h1 align="center">Hi 👋, I'm Vincent Galante</h1>
 <h3 align="center">Im a Front End Dev</h3>
 
 - 📍 Im Based in **New Jersey, United States**
