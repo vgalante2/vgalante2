@@ -15,10 +15,10 @@
 <h3 align="left">Languages and Skills</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=js,ts" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react,next" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind,scss" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html,css" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=js,ts" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=react,next" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind,scss" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
