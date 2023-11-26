@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vin Galante</h1>
-<h3 align="center">Im a Front End Dev</h3>
+<h3 align="center">I'm a Front End Dev</h3>
 
-- 📍 Im Based in **New Jersey, United States**
+- 📍 I'm Based in **New Jersey, United States**
 
 - 🖥️ See my Portfolio at [Portfolio](https://www.cenzo.dev)
 
@@ -13,4 +13,12 @@
 </p>
 
 <h3 align="left">Languages and Skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js,ts" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react,next" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind,scss" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
