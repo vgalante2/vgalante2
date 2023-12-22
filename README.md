@@ -18,7 +18,6 @@
     <img src="https://skillicons.dev/icons?i=html,css" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=js,ts" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=react,next" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind,scss" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=postgres" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=figma" />
