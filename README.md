@@ -5,7 +5,7 @@
 
 - 🖥️ See my Portfolio at [Portfolio](https://www.cenzo.dev)
 
-- 💭 I’m currently learning **Solidity**
+- 💭 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
