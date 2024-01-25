@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vin Galante</h1>
-<h3 align="center">Frontend Dev</h3>
+
 
 - 📍 I'm Based in **New Jersey, United States**
 
