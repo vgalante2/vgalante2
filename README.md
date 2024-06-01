@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vin Galante</h1>
+<h1 align="center">FrontEnd/FullStack Web Developer</h1>
 
 
 - 📍 I'm Based in **New Jersey, United States**
