@@ -7,7 +7,7 @@
 
 - 💭 I’m currently learning **Python**
 
-<h3>As a dedicated web professional, I have successfully transitioned from digital marketing to web development. Throughout this journey, I have acquired a diverse set of technological skills and have developed both simple and complex applications. I am committed to continuing my studies to expand my knowledge and expertise in this field.</h3>
+<p>As a dedicated web professional, I have successfully transitioned from digital marketing to web development. Throughout this journey, I have acquired a diverse set of technological skills and have developed both simple and complex applications. I am committed to continuing my studies to expand my knowledge and expertise in this field.</p>
 
 <h3>Education</h3>
 <ul>
