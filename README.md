@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=html,css" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=js" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=react,next" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=postgres" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=js" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=py" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=postgres" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right: 10px;" />
