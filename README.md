@@ -45,9 +45,10 @@
   </a>
 </p>
 
-<h3>Certifications</h3>
 
-[From Rutgers University](https://docs.credentials.rutgers.edu/b6064633-5097-46e4-a868-3e29149afc48)
+## Education
+
+[![Rutgers Certification](https://templates.images.credential.net/170561477361673028967893250171.png)](https://docs.credentials.rutgers.edu/b6064633-5097-46e4-a868-3e29149afc48)
 
 
 
