@@ -44,3 +44,10 @@
     <img src="https://skillicons.dev/icons?i=graphql" />
   </a>
 </p>
+
+<h3>Certifications</h3>
+
+[From Rutgers University](https://docs.credentials.rutgers.edu/b6064633-5097-46e4-a868-3e29149afc48)
+
+
+
