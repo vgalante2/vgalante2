@@ -49,7 +49,7 @@
 ## Education
 
 <a href="https://docs.credentials.rutgers.edu/b6064633-5097-46e4-a868-3e29149afc48">
-  <img src="https://templates.images.credential.net/170561477361673028967893250171.png" alt="Rutgers Certification" width="200">
+  <img src="https://templates.images.credential.net/170561477361673028967893250171.png" alt="Rutgers Certification" width="100">
 </a>
 
 
